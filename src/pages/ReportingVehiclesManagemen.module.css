@@ -1,0 +1,758 @@
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.dashboard {
+  position: absolute;
+  top: 66px;
+  left: 15px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.reportingVehiclesManagemenChild {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.vehicleReporting {
+  position: absolute;
+  top: 106px;
+  left: 15px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: #fbfbfc;
+  width: 318px;
+  height: 148px;
+}
+.reportingVehiclesManagemenInner {
+  position: absolute;
+  top: 145px;
+  left: 37px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 318px;
+  height: 148px;
+}
+.lastUpdate,
+.totalObu {
+  position: absolute;
+  top: 189px;
+  left: 61px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+}
+.totalObu {
+  top: 257px;
+  left: 66px;
+  color: var(--color-dimgray-100);
+}
+.div,
+.vehicleTracking {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.vehicleTracking {
+  top: 164px;
+  left: 58px;
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+  text-align: center;
+}
+.div {
+  top: 233px;
+  left: 79px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 42px;
+}
+.div1,
+.miniVanVehicle {
+  position: absolute;
+  top: 257px;
+  left: 149px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-100);
+}
+.div1 {
+  top: 233px;
+  left: 181px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 39px;
+}
+.div2,
+.pickupVehicle {
+  position: absolute;
+  top: 257px;
+  left: 251px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-100);
+}
+.div2 {
+  top: 233px;
+  left: 277px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 30px;
+}
+.reportingVehiclesManagemenItem {
+  position: absolute;
+  top: 220.5px;
+  left: 57.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 243px;
+  height: 1px;
+}
+.groupDiv,
+.groupItem {
+  position: absolute;
+  width: 159px;
+  height: 148px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.groupDiv {
+  top: 145px;
+  left: 387px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+}
+.vehicleIdle {
+  position: absolute;
+  top: 164px;
+  left: 425px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-cornflowerblue-300);
+  text-align: center;
+}
+.lineDiv {
+  position: absolute;
+  top: 191.5px;
+  left: 406.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 121px;
+  height: 1px;
+}
+.reportingVehiclesManagemenInner1 {
+  position: absolute;
+  top: 145px;
+  left: 955px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 159px;
+  height: 148px;
+}
+.lastUpdate2 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.november2021 {
+  margin: 0;
+}
+.lastUpdate17Container,
+.obuInactive {
+  position: absolute;
+  top: 246px;
+  left: 994px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray-200);
+}
+.obuInactive {
+  top: 164px;
+  left: 990px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-cornflowerblue-300);
+  text-align: center;
+}
+.div3 {
+  position: absolute;
+  top: 211px;
+  left: 1023px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-crimson-100);
+  display: inline-block;
+  width: 70px;
+}
+.reportingVehiclesManagemenChild1 {
+  position: absolute;
+  top: 191.5px;
+  left: 974.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 129px;
+  height: 1px;
+}
+.reportingVehiclesManagemenInner2 {
+  position: absolute;
+  top: 145px;
+  left: 767px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 159px;
+  height: 148px;
+}
+.deliveryOrder {
+  position: absolute;
+  top: 164px;
+  left: 798px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-cornflowerblue-300);
+  text-align: center;
+}
+.reportingVehiclesManagemenChild2 {
+  position: absolute;
+  top: 191.5px;
+  left: 786.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 121px;
+  height: 1px;
+}
+.reportingVehiclesManagemenInner3 {
+  position: absolute;
+  top: 145px;
+  left: 579px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 159px;
+  height: 148px;
+}
+.tamperOpen {
+  position: absolute;
+  top: 164px;
+  left: 611px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-cornflowerblue-300);
+  text-align: center;
+}
+.reportingVehiclesManagemenChild3 {
+  position: absolute;
+  top: 191.5px;
+  left: 598.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 121px;
+  height: 1px;
+}
+.div4 {
+  left: 836px;
+  color: var(--color-black);
+  width: 44px;
+}
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 211px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.div5 {
+  left: 450px;
+  color: var(--color-limegreen);
+  width: 50px;
+}
+.div6 {
+  left: 648px;
+  color: #e6a84b;
+  width: 31px;
+}
+.lastUpdate17Container1,
+.lastUpdate17Container2,
+.lastUpdate17Container3 {
+  position: absolute;
+  top: 247px;
+  left: 801px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray-200);
+}
+.lastUpdate17Container2,
+.lastUpdate17Container3 {
+  left: 419px;
+}
+.lastUpdate17Container3 {
+  left: 617px;
+}
+.image59Icon {
+  position: absolute;
+  top: 157px;
+  left: 259px;
+  width: 62px;
+  height: 46px;
+  object-fit: cover;
+}
+.groupChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 532px;
+  height: 372px;
+}
+.reportingVehiclesManagemenInner4 {
+  position: absolute;
+  top: 315px;
+  left: 37px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 532px;
+  height: 372px;
+}
+.weeklyVehicleStatus {
+  position: absolute;
+  top: 327px;
+  left: 214px;
+  font-weight: 600;
+  color: var(--color-gray-400);
+  text-align: center;
+  display: inline-block;
+  width: 198px;
+  height: 26px;
+}
+.nov21,
+.nov211,
+.nov212,
+.nov213,
+.nov214,
+.nov215,
+.nov216 {
+  position: absolute;
+  top: 648px;
+  left: 56px;
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 82px;
+  height: 22px;
+}
+.nov211,
+.nov212,
+.nov213,
+.nov214,
+.nov215,
+.nov216 {
+  top: 647px;
+  left: 128px;
+}
+.nov212,
+.nov213,
+.nov214,
+.nov215,
+.nov216 {
+  left: 206px;
+}
+.nov213,
+.nov214,
+.nov215,
+.nov216 {
+  top: 648px;
+  left: 277px;
+  width: 83px;
+}
+.nov214,
+.nov215,
+.nov216 {
+  top: 647px;
+  left: 349px;
+  width: 80px;
+}
+.nov215,
+.nov216 {
+  left: 420px;
+}
+.nov216 {
+  left: 489px;
+}
+.groupIcon {
+  position: absolute;
+  top: 383.3px;
+  left: 37px;
+  width: 509.44px;
+  height: 240.05px;
+}
+.reportingVehiclesManagemenChild4 {
+  position: absolute;
+  top: 409px;
+  left: 72px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-dodgerblue);
+  width: 37px;
+  height: 230px;
+}
+.reportingVehiclesManagemenChild5 {
+  position: absolute;
+  top: 603px;
+  left: 72px;
+  background-color: var(--color-yellowgreen-100);
+  width: 37px;
+  height: 36px;
+}
+.reportingVehiclesManagemenChild6,
+.reportingVehiclesManagemenChild7,
+.reportingVehiclesManagemenChild8 {
+  position: absolute;
+  top: 410px;
+  left: 138px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-dodgerblue);
+  width: 40px;
+  height: 230px;
+}
+.reportingVehiclesManagemenChild7,
+.reportingVehiclesManagemenChild8 {
+  left: 214px;
+}
+.reportingVehiclesManagemenChild8 {
+  left: 286px;
+}
+.reportingVehiclesManagemenChild9 {
+  position: absolute;
+  top: 573px;
+  left: 286px;
+  background-color: var(--color-yellowgreen-100);
+  width: 40px;
+  height: 67px;
+}
+.reportingVehiclesManagemenChild10 {
+  position: absolute;
+  top: 409px;
+  left: 498px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-dodgerblue);
+  width: 40px;
+  height: 230px;
+}
+.reportingVehiclesManagemenChild11 {
+  position: absolute;
+  top: 473px;
+  left: 498px;
+  background-color: var(--color-yellowgreen-100);
+  width: 40px;
+  height: 166px;
+}
+.reportingVehiclesManagemenChild12 {
+  position: absolute;
+  top: 409px;
+  left: 429px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-dodgerblue);
+  width: 40px;
+  height: 230px;
+}
+.reportingVehiclesManagemenChild13 {
+  position: absolute;
+  top: 622px;
+  left: 429px;
+  background-color: var(--color-yellowgreen-100);
+  width: 40px;
+  height: 17px;
+}
+.reportingVehiclesManagemenChild14 {
+  position: absolute;
+  top: 410px;
+  left: 358px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-dodgerblue);
+  width: 40px;
+  height: 230px;
+}
+.reportingVehiclesManagemenChild15,
+.reportingVehiclesManagemenChild16 {
+  position: absolute;
+  top: 603px;
+  left: 358px;
+  background-color: var(--color-yellowgreen-100);
+  width: 40px;
+  height: 37px;
+}
+.reportingVehiclesManagemenChild16 {
+  top: 525px;
+  left: 214px;
+  height: 115px;
+}
+.div10,
+.div11,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 421px;
+  left: 152px;
+  font-weight: 600;
+  display: inline-block;
+  width: 26px;
+  height: 21px;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  top: 420px;
+  left: 300px;
+}
+.div10,
+.div11,
+.div9 {
+  top: 421px;
+  left: 372px;
+}
+.div10,
+.div11 {
+  top: 420px;
+  left: 444px;
+}
+.div11 {
+  left: 512px;
+}
+.b,
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.div12,
+.div13 {
+  position: absolute;
+  top: 423px;
+  left: 231px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.div12,
+.div13 {
+  top: 535px;
+}
+.b2,
+.b3,
+.b4,
+.b5,
+.div12,
+.div13 {
+  top: 476px;
+  left: 512px;
+}
+.b3,
+.b4,
+.b5,
+.div12,
+.div13 {
+  top: 622px;
+  left: 445px;
+}
+.b4,
+.b5,
+.div12,
+.div13 {
+  top: 580px;
+  left: 300px;
+}
+.b5,
+.div12,
+.div13 {
+  top: 607px;
+  left: 374px;
+}
+.div12,
+.div13 {
+  top: 421px;
+  left: 82px;
+  font-weight: 600;
+  width: 24px;
+  height: 21px;
+}
+.div13 {
+  top: 610px;
+  left: 87px;
+}
+.reportingVehiclesManagemenChild17,
+.reportingVehiclesManagemenChild18 {
+  position: absolute;
+  top: 364px;
+  left: 192px;
+  background-color: var(--color-yellowgreen-100);
+  width: 16px;
+  height: 15px;
+}
+.reportingVehiclesManagemenChild18 {
+  left: 341px;
+  background-color: var(--color-dodgerblue);
+}
+.vehicleIdle1,
+.vehicleOperation {
+  position: absolute;
+  top: 364px;
+  left: 218px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--color-gray-400);
+  text-align: center;
+}
+.vehicleOperation {
+  left: 366px;
+}
+.reportingVehiclesManagemen {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

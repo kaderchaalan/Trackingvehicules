@@ -1,0 +1,585 @@
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.assetTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 213px;
+  height: 29px;
+}
+.vehicleNumber {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+  font-weight: 500;
+  display: inline-block;
+  width: 119px;
+  height: 15px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 51.72%;
+  width: 4.5%;
+  top: 24.14%;
+  right: 36.98%;
+  bottom: 24.14%;
+  left: 58.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 218px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-mediumslateblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 93px;
+  height: 29px;
+}
+.search {
+  position: absolute;
+  top: 7px;
+  left: 242px;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 53px;
+  height: 16px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 121px;
+  left: 732px;
+  width: 311px;
+  height: 29px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-200);
+}
+.dashboard {
+  position: absolute;
+  top: 66px;
+  left: 15px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.trackingVehiclesChild {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.currentLocation {
+  position: absolute;
+  top: 604px;
+  left: 732px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-deepskyblue);
+}
+.jlAchmadSobana {
+  position: absolute;
+  top: 632px;
+  left: 734px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 265px;
+  height: 41px;
+}
+.screenShot20211219At231 {
+  position: absolute;
+  top: 168px;
+  left: 732px;
+  width: 390px;
+  height: 426px;
+  object-fit: cover;
+}
+.trackingVehiclesItem {
+  position: absolute;
+  top: 284px;
+  left: 895px;
+  border-radius: 50%;
+  background-color: rgba(254, 63, 63, 0.2);
+  width: 117px;
+  height: 106px;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-slategray);
+  box-sizing: border-box;
+  width: 147px;
+  height: 22px;
+}
+.obuId {
+  position: absolute;
+  top: 6.83px;
+  left: 14.88px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118.96px;
+  height: 11.38px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 51.72%;
+  width: 7.71%;
+  top: 24.14%;
+  right: 9.36%;
+  bottom: 24.14%;
+  left: 82.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 404px;
+  left: 382px;
+  width: 147px;
+  height: 22px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-200);
+}
+.trackingVehiclesInner {
+  top: 493px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  height: 40px;
+}
+.lineIcon,
+.rectangleDiv,
+.trackingVehiclesInner {
+  position: absolute;
+  left: 63px;
+  width: 481px;
+}
+.rectangleDiv {
+  top: 533px;
+  background-color: var(--color-aliceblue-100);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  height: 40px;
+}
+.lineIcon {
+  top: 476px;
+  height: 3px;
+}
+.ba123r,
+.dateTime,
+.nov20211302,
+.nov2022,
+.nov20221 {
+  position: absolute;
+  left: 73px;
+  display: inline-block;
+  height: 19px;
+}
+.dateTime {
+  top: 456px;
+  font-size: var(--font-size-xs);
+  width: 71px;
+}
+.ba123r,
+.nov20211302,
+.nov2022,
+.nov20221 {
+  top: 509px;
+  font-weight: 500;
+  width: 135px;
+}
+.ba123r,
+.nov2022,
+.nov20221 {
+  left: 468px;
+  width: 72px;
+}
+.ba123r,
+.nov20221 {
+  top: 546px;
+  left: 467px;
+}
+.ba123r {
+  top: 509px;
+  left: 208px;
+  width: 62px;
+}
+.successfuly {
+  top: 509px;
+  left: 377px;
+  color: var(--color-limegreen);
+  width: 98px;
+}
+.b1347Dja,
+.b1347Dja1,
+.ba123r1,
+.nov202113021,
+.successfuly,
+.successfuly1 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  height: 19px;
+}
+.b1347Dja {
+  top: 509px;
+  left: 290px;
+  color: var(--color-dimgray-200);
+  width: 79px;
+}
+.b1347Dja1,
+.ba123r1,
+.nov202113021,
+.successfuly1 {
+  top: 546px;
+  left: 73px;
+  width: 135px;
+}
+.b1347Dja1,
+.ba123r1,
+.successfuly1 {
+  left: 208px;
+  width: 62px;
+}
+.b1347Dja1,
+.successfuly1 {
+  left: 290px;
+  color: var(--color-dimgray-200);
+  width: 79px;
+}
+.successfuly1 {
+  left: 377px;
+  color: var(--color-limegreen);
+  width: 98px;
+}
+.trackingVehiclesChild1 {
+  position: absolute;
+  top: 649px;
+  left: 63px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 481px;
+  height: 40px;
+}
+.b1347Dja2,
+.ba123r2,
+.nov202113023,
+.nov20222,
+.successfuly2 {
+  position: absolute;
+  top: 665px;
+  left: 467px;
+  font-weight: 500;
+  display: inline-block;
+  width: 72px;
+  height: 19px;
+}
+.b1347Dja2,
+.ba123r2,
+.nov202113023,
+.successfuly2 {
+  left: 73px;
+  width: 135px;
+}
+.b1347Dja2,
+.ba123r2,
+.successfuly2 {
+  left: 208px;
+  width: 62px;
+}
+.b1347Dja2,
+.successfuly2 {
+  left: 377px;
+  color: var(--color-limegreen);
+  width: 98px;
+}
+.b1347Dja2 {
+  left: 290px;
+  color: var(--color-dimgray-200);
+  width: 79px;
+}
+.trackingVehiclesChild2,
+.trackingVehiclesChild3 {
+  position: absolute;
+  top: 571px;
+  left: 63px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 481px;
+  height: 40px;
+}
+.trackingVehiclesChild3 {
+  top: 611px;
+  background-color: var(--color-aliceblue-100);
+}
+.ba441t,
+.nov202113024,
+.nov20223 {
+  position: absolute;
+  top: 624px;
+  left: 468px;
+  font-weight: 500;
+  display: inline-block;
+  width: 72px;
+  height: 19px;
+}
+.ba441t,
+.nov202113024 {
+  top: 587px;
+  left: 73px;
+  width: 135px;
+}
+.ba441t {
+  left: 208px;
+  width: 62px;
+}
+.failed {
+  top: 587px;
+  left: 377px;
+  color: var(--color-crimson-100);
+  width: 98px;
+}
+.b1347Dja3,
+.b1452Dja,
+.ba123r3,
+.failed,
+.nov202113025,
+.successfuly3 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  height: 19px;
+}
+.b1452Dja {
+  top: 587px;
+  left: 290px;
+  color: var(--color-dimgray-200);
+  width: 79px;
+}
+.b1347Dja3,
+.ba123r3,
+.nov202113025,
+.successfuly3 {
+  top: 624px;
+  left: 73px;
+  width: 135px;
+}
+.b1347Dja3,
+.ba123r3,
+.successfuly3 {
+  left: 208px;
+  width: 62px;
+}
+.b1347Dja3,
+.successfuly3 {
+  left: 290px;
+  color: var(--color-dimgray-200);
+  width: 79px;
+}
+.successfuly3 {
+  left: 377px;
+  color: var(--color-limegreen);
+  width: 98px;
+}
+.obuId1,
+.status,
+.vehicleId {
+  top: 456px;
+  display: inline-block;
+  height: 19px;
+}
+.obuId1 {
+  position: absolute;
+  left: 208px;
+  font-size: var(--font-size-xs);
+  width: 56px;
+}
+.status,
+.vehicleId {
+  width: 76px;
+}
+.vehicleId {
+  position: absolute;
+  left: 290px;
+  font-size: var(--font-size-xs);
+}
+.status {
+  left: 377px;
+}
+.expired,
+.registerLog,
+.status {
+  position: absolute;
+  font-size: var(--font-size-xs);
+}
+.expired {
+  top: 456px;
+  left: 468px;
+  display: inline-block;
+  width: 76px;
+  height: 19px;
+}
+.registerLog {
+  top: 372px;
+  left: 22px;
+  font-weight: 600;
+}
+.trackingVehicles {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

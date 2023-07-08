@@ -1,0 +1,260 @@
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.dashboard {
+  position: absolute;
+  top: 66px;
+  left: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+.configurationRegisterObuVChild {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-weight: 600;
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-weight: 600;
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1,
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chevronDownIcon2 {
+  top: 21.57%;
+  right: 57.38%;
+  bottom: 75.86%;
+  left: 41.06%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-weight: 600;
+  text-align: center;
+}
+.chevronDownIcon3 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.addAssetManifest {
+  position: absolute;
+  top: 104px;
+  left: 15px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-limegreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 122px;
+  height: 36px;
+}
+.update {
+  position: absolute;
+  top: 9px;
+  left: 19.74px;
+  font-weight: 600;
+  display: inline-block;
+  width: 90.6px;
+  height: 20px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 105px;
+  left: 997px;
+  width: 122px;
+  height: 36px;
+  text-align: center;
+  color: var(--color-white);
+}
+.vectorIcon {
+  position: absolute;
+  height: 1.63%;
+  width: 0.98%;
+  top: 28.71%;
+  right: 57.7%;
+  bottom: 69.66%;
+  left: 41.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addItem {
+  position: absolute;
+  top: 444px;
+  left: 1022px;
+  text-decoration: underline;
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+}
+.container1,
+.december20210940,
+.december20211407,
+.idle,
+.manifestDescription,
+.warehouse1 {
+  position: absolute;
+  top: 151px;
+  left: 232px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 184px;
+  height: 15px;
+}
+.container1,
+.december20211407,
+.idle,
+.manifestDescription,
+.warehouse1 {
+  top: 245px;
+}
+.december20211407,
+.idle,
+.manifestDescription,
+.warehouse1 {
+  top: 345px;
+  left: 237px;
+}
+.december20211407,
+.idle,
+.warehouse1 {
+  top: 151px;
+  left: 730px;
+}
+.idle,
+.warehouse1 {
+  top: 195px;
+}
+.idle {
+  top: 246px;
+  color: var(--color-limegreen);
+}
+.configurationRegisterObuV {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-royalblue-200);
+  font-family: var(--font-montserrat);
+}

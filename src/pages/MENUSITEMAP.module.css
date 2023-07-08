@@ -1,0 +1,176 @@
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.assetTracking,
+.assetTrackingLog,
+.dashboard,
+.tracking {
+  position: absolute;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.dashboard {
+  top: 113px;
+  left: 28px;
+  color: var(--color-mediumslateblue-100);
+}
+.assetTracking,
+.assetTrackingLog,
+.tracking {
+  left: 183px;
+}
+.tracking {
+  top: 113px;
+  color: var(--color-mediumslateblue-100);
+}
+.assetTracking,
+.assetTrackingLog {
+  top: 157px;
+}
+.assetTrackingLog {
+  top: 229px;
+}
+.vehicleTrackingLog {
+  top: 265px;
+  left: 184px;
+}
+.assetDashboard,
+.reporting,
+.vehicleTracking,
+.vehicleTrackingLog {
+  position: absolute;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.vehicleTracking {
+  top: 193px;
+  left: 183px;
+}
+.assetDashboard,
+.reporting {
+  left: 423px;
+}
+.reporting {
+  top: 113px;
+  color: var(--color-mediumslateblue-100);
+}
+.assetDashboard {
+  top: 157px;
+}
+.configuration,
+.driverAbsence,
+.driverReporting,
+.obuDevice,
+.vehicleDashboard {
+  position: absolute;
+  top: 229px;
+  left: 423px;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.configuration,
+.driverAbsence,
+.driverReporting,
+.vehicleDashboard {
+  top: 265px;
+}
+.configuration,
+.driverAbsence,
+.vehicleDashboard {
+  top: 301px;
+}
+.configuration,
+.vehicleDashboard {
+  top: 193px;
+}
+.configuration {
+  top: 113px;
+  left: 635px;
+  color: var(--color-mediumslateblue-100);
+}
+.deviceAssetRegister,
+.driverAccess,
+.obuVehicleRegister,
+.userManagement {
+  position: absolute;
+  top: 157px;
+  left: 635px;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.driverAccess,
+.obuVehicleRegister,
+.userManagement {
+  top: 229px;
+}
+.driverAccess,
+.obuVehicleRegister {
+  top: 261px;
+}
+.obuVehicleRegister {
+  top: 193px;
+}
+.menuSiteMap {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-montserrat);
+}

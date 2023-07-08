@@ -1,0 +1,417 @@
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.dashboard {
+  position: absolute;
+  top: 66px;
+  left: 15px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.configurationUserManagemenChild {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.userManagement {
+  position: absolute;
+  top: 99px;
+  left: 25px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+}
+.chevronDownIcon3 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 43%;
+  right: 58.51%;
+  bottom: 54.43%;
+  left: 39.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini-5);
+  background-color: var(--color-mediumslateblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 136px;
+  height: 36px;
+}
+.register {
+  position: absolute;
+  top: 8.69px;
+  left: 35.1px;
+  font-weight: 600;
+  display: inline-block;
+  width: 77.51px;
+  height: 19.86px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 478px;
+  left: 237px;
+  width: 136px;
+  height: 36px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.configurationUserManagemenInner,
+.configurationUserManagemenItem {
+  position: absolute;
+  top: 202.5px;
+  left: 207.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.configurationUserManagemenInner {
+  left: 40.5px;
+  width: 115px;
+}
+.addNewUser,
+.name {
+  position: absolute;
+  top: 181px;
+  left: 40px;
+  font-weight: 600;
+}
+.addNewUser {
+  top: 143px;
+  text-decoration: underline;
+  color: var(--color-gray-500);
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  top: 338px;
+  left: 185px;
+  font-weight: 600;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+  top: 181px;
+  left: 187px;
+}
+.div2,
+.div3,
+.div4,
+.div5 {
+  top: 380px;
+  left: 185px;
+}
+.div3,
+.div4,
+.div5 {
+  top: 298px;
+}
+.div4,
+.div5 {
+  top: 258px;
+  left: 184px;
+}
+.div5 {
+  top: 218px;
+  left: 187px;
+}
+.configurationUserManagemenChild1,
+.lineDiv {
+  position: absolute;
+  top: 319.5px;
+  left: 207.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.configurationUserManagemenChild1 {
+  left: 40.5px;
+  width: 115px;
+}
+.unit {
+  position: absolute;
+  top: 298px;
+  left: 40px;
+  font-weight: 600;
+}
+.configurationUserManagemenChild2,
+.configurationUserManagemenChild3 {
+  position: absolute;
+  top: 359.5px;
+  left: 207.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.configurationUserManagemenChild3 {
+  left: 40.5px;
+  width: 115px;
+}
+.userName {
+  position: absolute;
+  top: 338px;
+  left: 40px;
+  font-weight: 600;
+}
+.configurationUserManagemenChild4 {
+  position: absolute;
+  top: 398.5px;
+  left: 207.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.password {
+  position: absolute;
+  top: 377px;
+  left: 40px;
+  font-weight: 600;
+}
+.configurationUserManagemenChild5,
+.configurationUserManagemenChild6 {
+  position: absolute;
+  top: 279.5px;
+  left: 207.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.configurationUserManagemenChild6 {
+  left: 40.5px;
+  width: 115px;
+}
+.phoneNumber {
+  position: absolute;
+  top: 258px;
+  left: 40px;
+  font-weight: 600;
+}
+.configurationUserManagemenChild7 {
+  position: absolute;
+  top: 398.5px;
+  left: 40.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 115px;
+  height: 1px;
+}
+.chevronDownIcon4 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 59.86%;
+  right: 58.42%;
+  bottom: 37.57%;
+  left: 40.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div6 {
+  position: absolute;
+  top: 419px;
+  left: 186px;
+  font-weight: 600;
+}
+.configurationUserManagemenChild8 {
+  position: absolute;
+  top: 437.5px;
+  left: 208.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.accessRoles {
+  position: absolute;
+  top: 416px;
+  left: 41px;
+  font-weight: 600;
+}
+.configurationUserManagemenChild10,
+.configurationUserManagemenChild11,
+.configurationUserManagemenChild9 {
+  position: absolute;
+  top: 437.5px;
+  left: 41.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 115px;
+  height: 1px;
+}
+.configurationUserManagemenChild10,
+.configurationUserManagemenChild11 {
+  top: 239.5px;
+  left: 207.5px;
+  width: 273px;
+}
+.configurationUserManagemenChild11 {
+  left: 40.5px;
+  width: 115px;
+}
+.email {
+  position: absolute;
+  top: 218px;
+  left: 40px;
+  font-weight: 600;
+}
+.configurationUserManagemen {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-montserrat);
+}

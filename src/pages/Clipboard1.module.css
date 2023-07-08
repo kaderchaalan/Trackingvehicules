@@ -1,0 +1,52 @@
+.clipboardChild,
+.clipboardInner,
+.clipboardItem,
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 83.64%;
+  width: 74.38%;
+  top: 12.35%;
+  right: 12.81%;
+  bottom: 4.01%;
+  left: 12.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.clipboardChild,
+.clipboardInner,
+.clipboardItem,
+.vectorIcon1 {
+  height: 25.31%;
+  width: 41.05%;
+  top: 4.01%;
+  right: 29.48%;
+  bottom: 70.68%;
+  left: 29.48%;
+}
+.clipboardChild,
+.clipboardInner,
+.clipboardItem {
+  height: 8.64%;
+  width: 30.79%;
+  top: 37.99%;
+  right: 34.61%;
+  bottom: 53.37%;
+  left: 34.61%;
+}
+.clipboardInner,
+.clipboardItem {
+  top: 53.37%;
+  bottom: 37.99%;
+}
+.clipboardInner {
+  top: 68.76%;
+  bottom: 22.6%;
+}
+.clipboard {
+  position: relative;
+  width: 100%;
+  height: 23.14px;
+  overflow: hidden;
+}

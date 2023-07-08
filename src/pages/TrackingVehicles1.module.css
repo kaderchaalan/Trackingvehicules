@@ -1,0 +1,642 @@
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-mediumslateblue-100);
+  box-sizing: border-box;
+  width: 213px;
+  height: 29px;
+}
+.vehicleNumber {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+  font-weight: 500;
+  display: inline-block;
+  width: 119px;
+  height: 15px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 51.72%;
+  width: 4.5%;
+  top: 24.14%;
+  right: 36.98%;
+  bottom: 24.14%;
+  left: 58.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 218px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-mediumslateblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 93px;
+  height: 29px;
+}
+.search {
+  position: absolute;
+  top: 7px;
+  left: 242px;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 53px;
+  height: 16px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 152px;
+  left: 35px;
+  width: 311px;
+  height: 29px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-200);
+}
+.currentLoction {
+  top: 126px;
+  left: 523px;
+  color: var(--color-black);
+}
+.currentLoction,
+.vehicleOrder,
+.vehicleTrackingPoint {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+}
+.vehicleOrder {
+  top: 126px;
+  left: 840px;
+  color: var(--color-black);
+}
+.vehicleTrackingPoint {
+  top: 533px;
+  left: 35px;
+  font-size: var(--font-size-sm);
+  color: rgba(0, 0, 0, 0.72);
+}
+.dashboard,
+.searchingResult,
+.vehicleTracking {
+  position: absolute;
+  left: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+.vehicleTracking {
+  top: 104px;
+  font-size: var(--font-size-lg);
+  color: var(--color-mediumslateblue-200);
+}
+.dashboard,
+.searchingResult {
+  top: 66px;
+  color: var(--color-royalblue-200);
+}
+.searchingResult {
+  top: 199px;
+  left: 40px;
+  color: var(--color-gray-400);
+}
+.trackingVehiclesChild,
+.trackingVehiclesItem {
+  position: absolute;
+  top: 265.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.trackingVehiclesItem {
+  left: 66.5px;
+  width: 93px;
+}
+.deviceId,
+.tr {
+  position: absolute;
+  top: 244px;
+  left: 66px;
+  font-weight: 600;
+}
+.tr {
+  left: 211px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.lineDiv,
+.trackingVehiclesInner {
+  position: absolute;
+  top: 382.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.lineDiv {
+  left: 66.5px;
+  width: 93px;
+}
+.battreyInfo {
+  position: absolute;
+  top: 361px;
+  left: 66px;
+  font-weight: 600;
+}
+.div,
+.truck {
+  position: absolute;
+  left: 211px;
+  font-weight: 500;
+}
+.div {
+  top: 361px;
+  color: var(--color-limegreen);
+}
+.truck {
+  top: 401px;
+}
+.trackingVehiclesChild1,
+.trackingVehiclesChild2 {
+  position: absolute;
+  top: 422.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.trackingVehiclesChild2 {
+  left: 66.5px;
+  width: 93px;
+}
+.closed,
+.vehicleType {
+  position: absolute;
+  top: 401px;
+  left: 66px;
+  font-weight: 600;
+}
+.closed {
+  top: 441px;
+  left: 211px;
+  font-weight: 500;
+  color: var(--color-limegreen);
+}
+.trackingVehiclesChild3 {
+  position: absolute;
+  top: 461.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.geofence,
+.tamperStatus {
+  position: absolute;
+  top: 441px;
+  left: 66px;
+  font-weight: 600;
+}
+.geofence {
+  top: 483px;
+  left: 67px;
+}
+.trackingVehiclesChild4,
+.trackingVehiclesChild5 {
+  position: absolute;
+  top: 342.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.trackingVehiclesChild5 {
+  left: 66.5px;
+  width: 93px;
+}
+.deviceStatus {
+  position: absolute;
+  top: 321px;
+  left: 66px;
+  font-weight: 600;
+}
+.active {
+  position: relative;
+  font-weight: 500;
+}
+.activeWrapper {
+  position: absolute;
+  top: 311px;
+  left: 201px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-limegreen);
+}
+.trackingVehiclesChild6 {
+  position: absolute;
+  top: 461.5px;
+  left: 66.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 93px;
+  height: 1px;
+}
+.inRangeArea {
+  position: absolute;
+  top: 480px;
+  left: 211px;
+  font-weight: 500;
+  color: var(--color-limegreen);
+}
+.trackingVehiclesChild10,
+.trackingVehiclesChild7,
+.trackingVehiclesChild8,
+.trackingVehiclesChild9 {
+  position: absolute;
+  top: 500.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.trackingVehiclesChild10,
+.trackingVehiclesChild8,
+.trackingVehiclesChild9 {
+  left: 66.5px;
+  width: 93px;
+}
+.trackingVehiclesChild10,
+.trackingVehiclesChild9 {
+  top: 302.5px;
+  left: 210.5px;
+  width: 273px;
+}
+.trackingVehiclesChild10 {
+  left: 66.5px;
+  width: 93px;
+}
+.b1756Dja,
+.vehicleNumber1 {
+  position: absolute;
+  top: 281px;
+  left: 66px;
+  font-weight: 600;
+}
+.b1756Dja {
+  left: 211px;
+  font-weight: 500;
+}
+.siteB1 {
+  font-weight: 600;
+}
+.siteB {
+  margin: 0;
+}
+.jakartaIndonesia1 {
+  font-weight: 500;
+}
+.jakartaIndonesia {
+  margin: 0;
+  color: var(--color-dimgray-200);
+}
+.nov2021112305 {
+  margin: 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-300);
+}
+.siteBJakartaContainer,
+.siteHJakartaContainer {
+  position: absolute;
+  top: 626px;
+  left: 215px;
+  white-space: pre-wrap;
+  color: var(--color-deepskyblue);
+}
+.siteHJakartaContainer {
+  left: 1016px;
+}
+.siteCJakartaContainer,
+.siteDJakartaContainer,
+.siteEJakartaContainer,
+.siteFJakartaContainer {
+  position: absolute;
+  top: 626px;
+  left: 858px;
+  white-space: pre-wrap;
+  color: var(--color-deepskyblue);
+}
+.siteCJakartaContainer,
+.siteDJakartaContainer,
+.siteEJakartaContainer {
+  left: 700px;
+}
+.siteCJakartaContainer,
+.siteDJakartaContainer {
+  left: 539px;
+}
+.siteCJakartaContainer {
+  left: 376px;
+}
+.trackingVehiclesChild11 {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 591px;
+  left: 57px;
+  border-radius: 50%;
+  background-color: rgba(144, 144, 144, 0.96);
+  width: 25px;
+  height: 25px;
+}
+.siteAJakartaContainer {
+  position: absolute;
+  top: 626px;
+  left: 58px;
+  white-space: pre-wrap;
+  color: var(--color-deepskyblue);
+}
+.trackingVehiclesChild12 {
+  position: absolute;
+  top: 591px;
+  left: 215px;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+}
+.trackingVehiclesChild13,
+.trackingVehiclesChild14,
+.trackingVehiclesChild15,
+.trackingVehiclesChild16,
+.trackingVehiclesChild17 {
+  position: absolute;
+  top: 591px;
+  left: 376px;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+}
+.trackingVehiclesChild14,
+.trackingVehiclesChild15,
+.trackingVehiclesChild16,
+.trackingVehiclesChild17 {
+  left: 537px;
+}
+.trackingVehiclesChild15,
+.trackingVehiclesChild16,
+.trackingVehiclesChild17 {
+  left: 699px;
+}
+.trackingVehiclesChild16,
+.trackingVehiclesChild17 {
+  left: 858px;
+}
+.trackingVehiclesChild17 {
+  left: 1016px;
+  background-color: var(--color-mediumslateblue-100);
+}
+.trackingVehiclesChild18 {
+  position: absolute;
+  top: 602px;
+  left: 82px;
+  border-top: 2px dashed var(--color-lightcoral-200);
+  box-sizing: border-box;
+  width: 130px;
+  height: 2px;
+}
+.trackingVehiclesChild19,
+.trackingVehiclesChild20,
+.trackingVehiclesChild21,
+.trackingVehiclesChild22,
+.trackingVehiclesChild23 {
+  position: absolute;
+  top: 602px;
+  left: 243px;
+  border-top: 2px dashed var(--color-lightcoral-200);
+  box-sizing: border-box;
+  width: 130px;
+  height: 2px;
+}
+.trackingVehiclesChild20,
+.trackingVehiclesChild21,
+.trackingVehiclesChild22,
+.trackingVehiclesChild23 {
+  left: 406px;
+}
+.trackingVehiclesChild21,
+.trackingVehiclesChild22,
+.trackingVehiclesChild23 {
+  left: 566px;
+}
+.trackingVehiclesChild22,
+.trackingVehiclesChild23 {
+  left: 727px;
+}
+.trackingVehiclesChild23 {
+  left: 885px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 563px;
+  left: 35px;
+  background-color: rgba(240, 240, 240, 0.3);
+  width: 1105px;
+  height: 128px;
+}
+.currentLocation {
+  position: absolute;
+  top: 494px;
+  left: 529px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-deepskyblue);
+}
+.jlAchmadSobana {
+  position: absolute;
+  top: 517px;
+  left: 529px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 265px;
+  height: 41px;
+}
+.set {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.setWrapper {
+  position: absolute;
+  top: 467px;
+  left: 449px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-mediumslateblue-100);
+}
+.trackingVehicles {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-montserrat);
+}

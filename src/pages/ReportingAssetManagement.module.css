@@ -1,0 +1,473 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 724px;
+  height: 357px;
+}
+.reportingAssetManagementInner {
+  position: absolute;
+  top: 310px;
+  left: 389px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 724px;
+  height: 357px;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 319px;
+  height: 357px;
+}
+.reportingAssetManagementChild {
+  position: absolute;
+  top: 310px;
+  left: 36px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+  width: 319px;
+  height: 357px;
+}
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.dashboard {
+  position: absolute;
+  top: 66px;
+  left: 15px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.reportingAssetManagementItem {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+  text-align: center;
+}
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 1150px;
+  height: 33px;
+}
+.assetReporting {
+  position: absolute;
+  top: 101px;
+  left: 18px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+}
+.ellipseDiv,
+.reportingAssetManagementChild1,
+.reportingAssetManagementChild2 {
+  position: absolute;
+  top: 374px;
+  border-radius: 50%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 229px;
+  height: 227px;
+}
+.ellipseDiv {
+  left: 82px;
+  background-color: var(--green-2);
+  border: 1px solid #409621;
+}
+.reportingAssetManagementChild1,
+.reportingAssetManagementChild2 {
+  left: 90px;
+  background-color: var(--blue-2);
+  border: 1px solid var(--color-deepskyblue);
+}
+.reportingAssetManagementChild2 {
+  top: 385px;
+  left: 88px;
+  background-color: var(--red);
+  border: 1px solid var(--color-lightcoral-200);
+  height: 217px;
+}
+.assetIdle,
+.assetTrafficAnalysis,
+.lost,
+.oucciipt {
+  position: absolute;
+  top: 335px;
+  left: 123px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-gray-400);
+  text-align: center;
+}
+.assetIdle,
+.lost,
+.oucciipt {
+  top: 629px;
+  left: 90px;
+  font-size: var(--font-size-2xs);
+}
+.lost,
+.oucciipt {
+  left: 192px;
+}
+.lost {
+  left: 286px;
+}
+.reportingAssetManagementChild3,
+.reportingAssetManagementChild4 {
+  position: absolute;
+  top: 627px;
+  left: 68px;
+  background-color: var(--color-limegreen);
+  width: 16px;
+  height: 15px;
+}
+.reportingAssetManagementChild4 {
+  left: 169px;
+  background-color: var(--color-deepskyblue);
+}
+.reportingAssetManagementChild5 {
+  position: absolute;
+  top: 627px;
+  left: 264px;
+  background-color: #ed3b5b;
+  width: 16px;
+  height: 15px;
+}
+.topTotalAsset {
+  position: absolute;
+  top: 336px;
+  left: 655px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-gray-400);
+  text-align: center;
+  display: inline-block;
+  width: 235px;
+  height: 23px;
+}
+.buildingB,
+.buildingC,
+.buildingD,
+.buildingE,
+.buildingF,
+.buildingG,
+.siteA {
+  position: absolute;
+  top: 617px;
+  left: 455px;
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 48px;
+  height: 22px;
+}
+.buildingB,
+.buildingC,
+.buildingD,
+.buildingE,
+.buildingF,
+.buildingG {
+  top: 620px;
+  left: 540px;
+  width: 82px;
+}
+.buildingC,
+.buildingD,
+.buildingE,
+.buildingF,
+.buildingG {
+  top: 619px;
+  left: 642px;
+}
+.buildingD,
+.buildingE,
+.buildingF,
+.buildingG {
+  top: 620px;
+  left: 739px;
+  width: 83px;
+}
+.buildingE,
+.buildingF,
+.buildingG {
+  top: 619px;
+  left: 837px;
+  width: 80px;
+}
+.buildingF,
+.buildingG {
+  top: 620px;
+  left: 1020px;
+}
+.buildingF {
+  left: 930px;
+}
+.groupIcon {
+  position: absolute;
+  top: 399.21px;
+  left: 421px;
+  width: 669px;
+  height: 208.93px;
+}
+.reportingAssetManagementChild6,
+.reportingAssetManagementChild7,
+.reportingAssetManagementChild8 {
+  position: absolute;
+  top: 511px;
+  left: 456px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-cornflowerblue-100);
+  width: 36px;
+  height: 97px;
+}
+.reportingAssetManagementChild7,
+.reportingAssetManagementChild8 {
+  top: 408px;
+  left: 549px;
+  width: 40px;
+  height: 200px;
+}
+.reportingAssetManagementChild8 {
+  top: 480px;
+  left: 655px;
+  height: 128px;
+}
+.reportingAssetManagementChild10,
+.reportingAssetManagementChild11,
+.reportingAssetManagementChild12,
+.reportingAssetManagementChild9 {
+  position: absolute;
+  top: 467px;
+  left: 752px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-cornflowerblue-100);
+  width: 39px;
+  height: 145px;
+}
+.reportingAssetManagementChild10,
+.reportingAssetManagementChild11,
+.reportingAssetManagementChild12 {
+  top: 448px;
+  left: 852px;
+  width: 38px;
+  height: 160px;
+}
+.reportingAssetManagementChild11,
+.reportingAssetManagementChild12 {
+  top: 573px;
+  left: 1029px;
+  height: 35px;
+}
+.reportingAssetManagementChild12 {
+  top: 538px;
+  left: 943px;
+  height: 70px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 417px;
+  left: 559px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+  width: 26px;
+  height: 18px;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+  top: 476px;
+  left: 760px;
+  width: 27px;
+}
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+  top: 457px;
+  left: 859px;
+  width: 24px;
+  height: 17px;
+}
+.div3,
+.div4,
+.div5,
+.div6 {
+  top: 547px;
+  left: 953px;
+}
+.div4,
+.div5,
+.div6 {
+  top: 581px;
+  left: 1038px;
+}
+.div5,
+.div6 {
+  top: 488px;
+  left: 666px;
+  width: 23px;
+  height: 18px;
+}
+.div6 {
+  top: 520px;
+  left: 465px;
+}
+.reportingAssetManagement {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

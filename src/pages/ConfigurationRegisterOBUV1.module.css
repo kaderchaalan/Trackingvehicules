@@ -1,0 +1,279 @@
+.configurationRegisterObuVChild {
+  position: absolute;
+  top: 330px;
+  left: 44px;
+  border-radius: var(--br-8xs);
+  background-color: rgba(130, 208, 30, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 346px;
+  height: 154px;
+}
+.statusBarBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 58px;
+}
+.notification {
+  position: absolute;
+  top: 22px;
+  left: 813px;
+  font-weight: 500;
+}
+.statusBarContents {
+  position: absolute;
+  top: 0;
+  left: 774.4px;
+  width: 377.6px;
+  height: 66px;
+}
+.adminxenxorcom {
+  position: absolute;
+  top: 22px;
+  left: 979px;
+  font-weight: 500;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 15px;
+  left: 774px;
+  width: 33px;
+  height: 29px;
+  object-fit: cover;
+}
+.image1Icon {
+  left: 936px;
+  width: 34px;
+  height: 31px;
+}
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1152px;
+  height: 66px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.xenxorTrackingSystem {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.dashboard {
+  position: absolute;
+  top: 66px;
+  left: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+.configurationRegisterObuVItem {
+  position: absolute;
+  top: 89.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 1px;
+}
+.reporting {
+  position: absolute;
+  top: 66px;
+  left: 220px;
+  font-weight: 600;
+  text-align: center;
+}
+.chevronDownIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 73.87%;
+  bottom: 88%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.configuration,
+.logout {
+  position: absolute;
+  top: 66px;
+  left: 321px;
+  font-weight: 600;
+  text-align: center;
+}
+.logout {
+  top: 68px;
+  left: 1073px;
+}
+.chevronDownIcon1 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 63.11%;
+  bottom: 88%;
+  left: 35.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tracking {
+  position: absolute;
+  top: 66px;
+  left: 124px;
+  font-weight: 600;
+  text-align: center;
+}
+.chevronDownIcon2 {
+  position: absolute;
+  height: 2.57%;
+  width: 1.56%;
+  top: 9.43%;
+  right: 82.99%;
+  bottom: 88%;
+  left: 15.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image58Icon {
+  position: absolute;
+  top: 66px;
+  left: 1048px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.div,
+.orderStatus,
+.ptExample1 {
+  position: absolute;
+  font-weight: 600;
+}
+.orderStatus {
+  top: 105px;
+  left: 15px;
+  font-size: var(--font-size-lg);
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+}
+.div,
+.ptExample1 {
+  top: 383px;
+  left: 223px;
+  color: var(--color-dimgray-200);
+}
+.ptExample1 {
+  top: 387px;
+  left: 238px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.configurationRegisterObuVChild1,
+.configurationRegisterObuVInner {
+  position: absolute;
+  top: 218.5px;
+  left: 229.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.configurationRegisterObuVChild1 {
+  top: 257.5px;
+}
+.ariefSetiawan,
+.b1234Abc,
+.december20210940,
+.dlv1234567890,
+.num202109395393 {
+  position: absolute;
+  top: 160px;
+  left: 233px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 184px;
+  height: 15px;
+}
+.ariefSetiawan,
+.b1234Abc,
+.dlv1234567890,
+.num202109395393 {
+  top: 239px;
+  color: var(--color-mediumslateblue-200);
+}
+.ariefSetiawan,
+.b1234Abc,
+.dlv1234567890 {
+  top: 160px;
+  left: 814px;
+  color: var(--color-gray-200);
+}
+.ariefSetiawan,
+.dlv1234567890 {
+  top: 201px;
+}
+.dlv1234567890 {
+  left: 233px;
+  color: var(--color-mediumslateblue-100);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-slategray);
+  box-sizing: border-box;
+  width: 173px;
+  height: 22px;
+}
+.orderId {
+  position: absolute;
+  top: 5px;
+  left: 16.48px;
+  font-weight: 500;
+  display: inline-block;
+  width: 140px;
+  height: 11.38px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 51.72%;
+  width: 7.71%;
+  top: 24.14%;
+  right: 9.36%;
+  bottom: 24.14%;
+  left: 82.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent {
+  position: absolute;
+  top: 102px;
+  left: 954px;
+  width: 173px;
+  height: 22px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-200);
+}
+.configurationRegisterObuV {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-royalblue-200);
+  font-family: var(--font-montserrat);
+}
